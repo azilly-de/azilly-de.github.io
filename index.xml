@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>azilly-de Links</title>
+    <link>https://azilly-de.github.io/</link>
+    <description>Recent content on azilly-de Links</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://azilly-de.github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
